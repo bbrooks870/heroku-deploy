@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM yunus25jmi/yunusmirror:latest
 
 WORKDIR /maruf
 
